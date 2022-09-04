@@ -1,7 +1,7 @@
 # Há muito a melhorar
 
 
-- Pontos melhorar:
+- Pontos para melhorar:
     - Ser mais sucinto;
     - Melhorar estrutura de organização;
     - Criar função individual que prepara dados para cada  modelo;
@@ -12,7 +12,7 @@
             - Se sim, posso ir pensando que atributo é bom para cada modelo.
     - Arriscar mais plot de gráficos entre atributos;
     - Ser mais criativo em juntar atributos.
-
+    - Usar Econder do sklern.
 
 - O que aprendi?
     - Plotar gráficos com mais eficiência;
