@@ -21,5 +21,4 @@
 
 
 - O que farei?
-    1. Aplicar meu primeiro Deploy;
     2. Refazer do zero, porem praticando os pontos para melhorar;
