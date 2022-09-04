@@ -21,4 +21,4 @@
 
 
 - O que farei?
-    2. Refazer do zero, porem praticando os pontos para melhorar;
+    1. Refazer do zero, porem praticando os pontos para melhorar;
